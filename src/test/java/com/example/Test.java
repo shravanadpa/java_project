@@ -1,9 +1,10 @@
 package com.example;
 
+import com.example.Main;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class HelloWorldTest {
+public class Test {
 
     @Test
     public void testSayHello() {
