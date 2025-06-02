@@ -7,7 +7,7 @@ public class HelloWorldTest {
 
     @Test
     public void testSayHello() {
-        HelloWorld hw = new HelloWorld();
+        Main hw = new Main();
         assertEquals("Hello, CI/CD!", hw.sayHello());
     }
 }
